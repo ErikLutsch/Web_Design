@@ -1,0 +1,85 @@
+/* IDs */
+
+#sage {
+    background-color: #cacaaa;
+}
+
+#gold_crayola {
+    background-color: #eec584;
+}
+
+#light_french_beige {
+    background-color: #c8ab83;
+}
+
+#steel_teal {
+    background-color: #55868c;
+}
+
+#deep_taupe {
+    background-color: #7f636e;
+}
+
+
+
+/* Classes */
+
+.fira_code {
+    font-family: 'Fira Code', monospace;
+}
+
+.fire_sans {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.merriweather {
+    font-family: 'Merriweather', serif;
+}
+
+.light {
+    font-weight: 300;
+    font-style: italic;
+}
+
+.medium {
+    font-weight: 400;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.section {
+    margin-top: 1em;
+}
+
+/* Elements */
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.25em;
+}
+
+h3 {
+    font-size: 1.12em;
+}
+
+p {
+    font-size: 1em;
+}
+
+section {
+    border: 0.15em solid black;
+    border-radius: 0.5em;
+}
+
+figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
